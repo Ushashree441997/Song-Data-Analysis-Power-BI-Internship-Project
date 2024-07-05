@@ -49,3 +49,46 @@ Recommendations for content creators and stakeholders to enhance YouTube song vi
 
 13. caption: Availability of captions for the YouTube song video. 
 
+# Project Objective :
+
+1. Data Cleaning and Preparation: 
+- Clean and preprocess the dataset, handling missing values or outliers. 
+- Convert relevant columns to appropriate data types. 
+
+2. Exploratory Data Analysis (EDA): 
+- Explore patterns and distributions in view counts, like counts, and comments. 
+- Identify trends in the popularity and engagement of YouTube song videos. 
+
+3. Content and Channel Analysis: 
+- Analyze the distribution of videos across different channels.
+- Identify popular tags and their correlation with view counts.
+
+4. Temporal Trends: 
+- Explore how YouTube song video metrics vary over time. 
+- Identify peak publishing times and their impact on engagement. 
+
+5. User Engagement Insights: 
+- Investigate relationships between likes, comments, and views. 
+- Identify factors influencing user engagement with YouTube song videos.
+
+# Create Measures :
+
+![image](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/50ef4494-c8c5-4391-9c88-1cf8af31377e)
+
+# Power BI Live Dashboard Screenshots :
+
+1. Likes on Songs shown in this dashboard through various visuals :
+
+![image](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/5774f05a-dc2c-4e26-96e4-8c390d99a5e5)
+
+2. Comments on Songs by public is shown in the below dashboard :
+
+![image](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/5db077d9-3292-46b4-92e7-c2574a41aea0)
+
+3. Views of songs by public is shown in the below dashboard :
+
+![image](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/cdb47c5c-33ef-4769-b52d-9554b07483db)
+
+
+
+
