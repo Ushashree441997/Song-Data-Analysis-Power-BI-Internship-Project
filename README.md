@@ -1,6 +1,10 @@
 # Youtube Song-Data-Analysis-Power-BI-Internship-Project 
 ![youtublogo](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/b443cb75-ebef-4fda-83ac-4f5094dcc88f)
 
+# Power BI LIVE DASHOARD of YOUTUBE SONG DATA ANALYSIS :
+https://app.powerbi.com/view?r=eyJrIjoiZjU0ZjIxNmEtMTkxNS00MzZmLThlMjAtMzlkZWZlZDVkNDQwIiwidCI6IjQ5NmE3ZmFlLTM0ZmUtNDJmNS1iNjYzLTc3MjFlNmZhYzA0MCJ9
+
+
 # Objective :
 This internship project aims to conduct a comprehensive analysis of YouTube songs data using Power BI. The dataset contains key attributes such as video ID, channel title, title, description, tags, published date, view count, like count, favorite count, comment count, video duration, video definition, and caption details. 
 
@@ -89,6 +93,33 @@ Recommendations for content creators and stakeholders to enhance YouTube song vi
 
 ![image](https://github.com/Ushashree441997/Song-Data-Analysis-Power-BI-Internship-Project/assets/69711495/cdb47c5c-33ef-4769-b52d-9554b07483db)
 
+# Conclusion on the Song Data Analysis :
+
+Top 7 songs are most liked by public - the song are as follow - Vaaste Song, Lut Gaya, Khairi, Saayan Ji, Guru Randhawa, Nach Meri Rani all these songs tends to treand and listened more and liked by public because of Genre: Synthwave, Pop. Themes: Heartbreak, longing, and reconciliation. Musical Elements: 80s synths, upbeat tempo, catchy melody. This analysis showcases a well-rounded musical taste that values emotional depth, varied genres, and strong melodies.
+These song - Vaaste Song, Lut Gaya, Khairi, Saayan Ji, Guru Randhawa, Nach Meri Rani are mostly trended in year 2021. 
+
+Top 7 songs are most commented by public - The songs Guru Randhawa has the most popular commented song around 4.2 Million public commented the song. Vaaste Song, Yo yo honey singh, Lut Gaya, Saayan Ji, Guru Randhawa, First Kiss  all these are commented by public around 2.8 - 3.4 million people.
+These songs were mostly commented by people in the lockdown period in the year 2020 - 2021.
+
+Top 7 songs are most viewed by public -  The songs Guru Randhawa has the most popular commented song around 2.2 Billion public viewed the song. Vaaste Song, Guru Randhawa, Lut Gaya, DILBAAR Lyrics, Cham Cham, SIMMBA are the trending songs have been  viewed by public.
+These songs were mostly just viewed by people in the lockdown period in the year 2019 - 2020. 
 
 
+# Contact Details :
 
+Website Portfolio -
+https://sites.google.com/view/ushashree 
+
+Email - 
+ushashripati41997@gmail.com
+
+Phone Number - 
+8329317365
+
+LinkedIN - 
+https://www.linkedin.com/in/ushashreeshripati/
+
+Github - 
+https://github.com/Ushashree441997tab=repositories
+
+# Thank you for paying your attention towards the project.
